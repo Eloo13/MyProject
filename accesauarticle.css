@@ -1,0 +1,124 @@
+﻿body
+{
+    background-color:rgb(255, 247, 219);
+}
+@media(max-width:1500px){
+    .banniere_description {
+        position: absolute;
+        bottom: 0;
+        border-radius: 0px 0px 5px 5px;
+        width: 100%;
+        height: 33px;
+        padding-top: 15px;
+        padding-left: 4px;
+        background-color: rgba(24,24,24,0.8);
+        color: white;
+        font-size: 0.8em;
+    
+        }
+        #banniere_image {
+            margin-top: 15px;
+            height: 200px;
+            border-radius: 5px;
+            background: url('images/sanfrancisco.jpg') no-repeat;
+            position: relative;
+            margin-bottom: 25px;
+            width: 107%;
+            font-size:xx-large;
+        }
+        #banniere_image1 {
+            margin-top: 15px;
+            height: 2000px;
+            border-radius: 5px;
+            background: url('images/los-angeles.jpg') no-repeat;
+            position: relative;
+            margin-bottom: 25px;
+            width: 107%;
+            font-size:xx-large;
+        }
+        #banniere_image2 {
+            margin-top: 15px;
+            height: 200px;
+            border-radius: 5px;
+            background: url('images/italy.jpg') no-repeat;
+            position: relative;
+            margin-bottom: 25px;
+            width: 107%;
+            font-size:xx-large;
+        }
+}
+
+#banniere_image {
+    margin-top: 15px;
+    height: 200px;
+    border-radius: 5px;
+    background: url('images/sanfrancisco.jpg') no-repeat;
+    position: relative;
+    margin-bottom: 25px;
+    width: 107%;
+}
+#banniere_image1 {
+    margin-top: 15px;
+    height: 200px;
+    border-radius: 5px;
+    background: url('images/los-angeles.jpg') no-repeat;
+    position: relative;
+    margin-bottom: 25px;
+    width: 107%;
+}
+#banniere_image2 {
+    margin-top: 15px;
+    height: 200px;
+    border-radius: 5px;
+    background: url('images/italy.jpg') no-repeat;
+    position: relative;
+    margin-bottom: 25px;
+    width: 107%;
+}
+.banniere_description {
+    position: absolute;
+    bottom: 0;
+    border-radius: 0px 0px 5px 5px;
+    width:  2000px;
+    height: 33px;
+    padding-top: 15px;
+    padding-left: 4px;
+    background-color: rgba(24,24,24,0.8);
+    color: white;
+    font-size: 0.8em;
+    width: 1020px;
+    }
+
+    #banniere_description1 {
+        position: absolute;
+        bottom: 0;
+        border-radius: 0px 0px 5px 5px;
+        width:  2000px;
+        height: 33px;
+        padding-top: 15px;
+        padding-left: 4px;
+        background-color: rgba(24,24,24,0.8);
+        color: white;
+        font-size: 0.8em;
+        width: 945px;
+        }
+    .bouton_rouge{
+    height: 25px;
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    background: url('images/fond_degraderouge.png') repeat-x;
+    border: 1px solid #760001;
+    border-radius: 5px;
+    font-size: 1.2em;
+    text-align: center;
+    padding: 3px 8px 0px 8px;
+    color: white;
+    text-decoration: none;
+    }
+
+    .bouton_rouge img  {
+    border: 0;
+    }
+   
+    

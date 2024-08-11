@@ -1,0 +1,211 @@
+﻿button {
+    cursor: pointer;
+    border: none;
+    background: rgb(255, 255, 255);
+    height: 31px;
+    border-radius: 103px;
+    width: 63px;
+}
+
+
+.animal {
+    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Tursiops_truncatus_01.jpg/800px-Tursiops_truncatus_01.jpg")-433px -205px no-repeat;
+    border-radius: 155px;
+    width: 192px;
+    height: 192px;
+}
+
+.animal:hover {
+    cursor: pointer;
+    border-radius: 155px;
+    width: 196px;
+    height: 196px;
+}
+
+.animal2 {
+    background: url("https://upload.wikimedia.org/wikipedia/commons/7/7d/Orca_2.jpg")-45px -9px no-repeat;
+    border-radius: 155px;
+    width: 180px;
+    height: 180px;
+}
+
+    .animal2:hover {
+        cursor: pointer;
+        border-radius: 155px;
+        width: 196px;
+        height: 196px;
+    }
+
+.animal3 {
+    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Neuguinea-krokodil-0272.jpg/800px-Neuguinea-krokodil-0272.jpg")-273px -149px no-repeat;
+    border-radius: 155px;
+    width: 225px;
+    height: 225px;
+}
+
+    .animal3:hover {
+        cursor: pointer;
+        border-radius: 155px;
+        width: 230px;
+        height: 230px;
+    }
+
+.food {
+    background: url("https://upload.wikimedia.org/wikipedia/commons/f/fb/Key_West_Cuban_mix.jpg")-208px -131px no-repeat;
+    border-radius: 155px;
+    width: 176px;
+    height: 180px;
+}
+
+.food:hover {
+    cursor: pointer;
+    border-radius: 155px;
+    width: 196px;
+    height: 196px;
+}
+
+.food2 {
+    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Keylimepiecut.jpg/800px-Keylimepiecut.jpg")-378px -29px no-repeat;
+    border-radius: 155px;
+    width: 180px;
+    height: 180px;
+}
+
+    .food2:hover {
+        cursor: pointer;
+        border-radius: 155px;
+        width: 196px;
+        height: 196px;
+    }
+
+.food3 {
+    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/01_Tacos_al_Pastor.jpg/800px-01_Tacos_al_Pastor.jpg")-240px -231px no-repeat;
+    border-radius: 155px;
+    width: 180px;
+    height: 180px;
+}
+
+    .food3:hover {
+        cursor: pointer;
+        border-radius: 155px;
+        width: 196px;
+        height: 196px;
+    }
+
+
+
+
+.beaches {
+    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/20100726_Kalamitsi_Beach_Ionian_Sea_Lefkada_island_Greece.jpg/800px-20100726_Kalamitsi_Beach_Ionian_Sea_Lefkada_island_Greece.jpg")-241px -77px no-repeat;
+    border-radius: 155px;
+    width: 180px;
+    height: 180px;
+}
+
+.beaches:hover {
+    cursor: pointer;
+    border-radius: 155px;
+    width: 196px;
+    height: 196px;
+}
+
+.beaches2 {
+    background: url("https://upload.wikimedia.org/wikipedia/commons/2/24/The_beach_at_North_Seymour_Island_in_the_Galapagos.jpeg")-241px -188px no-repeat;
+    border-radius: 155px;
+    width: 180px;
+    height: 180px;
+}
+
+    .beaches2:hover {
+        cursor: pointer;
+        border-radius: 155px;
+        width: 196px;
+        height: 196px;
+    }
+
+.beaches3 {
+    background: url("file:///E:/site/images/plage.webp")-600px -380px no-repeat;
+    border-radius: 155px;
+    width: 180px;
+    height: 180px;
+}
+
+    .beaches3:hover {
+        cursor: pointer;
+        border-radius: 155px;
+        width: 6px;
+        height: 6px;
+    }
+    
+.surfing3 {
+    background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mavericks_Surf_Contest_2010b.jpg/800px-Mavericks_Surf_Contest_2010b.jpg') -258px -286px no-repeat;
+    border-radius: 155px;
+    width: 180px;
+    height: 180px;
+}
+
+.surfing3:hover {
+    cursor: pointer;
+    border-radius: 155px;
+    width: 196px;
+    height: 196px;
+}
+
+.surfing {
+    background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Maggie_Hallahan_Jaws_Hawaii.jpg/428px-Maggie_Hallahan_Jaws_Hawaii.jpg') -171px -340px no-repeat;
+    border-radius: 155px;
+    width: 180px;
+    height: 180px;
+}
+
+    .surfing:hover {
+        cursor: pointer;
+        border-radius: 155px;
+        width: 196px;
+        height: 196px;
+    }
+
+.surfing2 {
+    background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pipeline_Barrel_%2851633882%29.jpeg/800px-Pipeline_Barrel_%2851633882%29.jpeg') -319px -169px no-repeat;
+    border-radius: 155px;
+    width: 180px;
+    height: 180px;
+}
+
+    .surfing2:hover {
+        cursor: pointer;
+        border-radius: 155px;
+        width: 196px;
+        height: 196px;
+    }
+
+p {
+    font-family: bellota;
+    text-align: center;
+}
+
+h1 {
+    font-family: comfortaa;
+    font-size: 69px;
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    font-family: comfortaa;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+#miami {
+    background: url("https://ak.picdn.net/shutterstock/videos/10605302/thumb/1.jpg");
+    height: 364px;
+    margin: 10px --85px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}

@@ -1,0 +1,62 @@
+﻿body {
+    background-color: #65addd;
+   background-color:#66aede;
+   margin:2%; 
+}
+h1 {
+    color: #326ee1;
+   
+    margin-left: 40%;
+}
+h3{
+    color: #618ae3;
+    margin-left: 33%
+}
+
+.menu a {
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    color: aliceblue;
+    padding: 10px 10px;
+    width: 22%;
+    background-color: #6278e7;
+    background-color: #6278e7;
+}
+ a.Home {
+    background-color: #305ce3;
+}
+.dropdown a {
+    display: inline-block;
+    text-decoration: none;
+    border:thin;
+    padding:10px;
+    width: 100%;
+    color: #000000;
+    display: block;
+    background-color:#6278e7;
+
+}
+
+.dropdown{
+   display:inline-block;
+   /* יורד שורה ככה הוא לא */
+   width:24%;
+}
+
+.details a {
+    /*display:block;*/
+    background-color: aliceblue;
+    color: #000000;
+   
+}
+.dropdown:hover .details {
+    display: block; /* בלעדיו לא רואים את הקישורים שיורדים*/
+}
+
+.details{
+    display:none;/*לא רואים כל מה שירד מהקישור רק שאני ילחץ אני יראה */
+    position:absolute;/*מסדר לי שהקישורים יעמדו גם שאני ילחץ זה לא ירד לי*/
+    width:100%;/* האורך שלהם*/
+
+}

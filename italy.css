@@ -1,0 +1,129 @@
+﻿
+button {
+    cursor: pointer;
+    border: none;
+    background: rgb(255, 255, 255);
+    height: 31px;
+    border-radius: 103px;
+    width: 63px;
+}
+
+
+
+.food {
+    background: url("images/food.jpg")-168px -239px no-repeat;
+    border-radius: 155px;
+    width: 176px;
+    height: 180px;
+}
+
+    .food:hover {
+        cursor: pointer;
+        border-radius: 155px;
+        width: 196px;
+        height: 196px;
+    }
+
+.food2 {
+    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Hollywood_boulevard_from_kodak_theatre.jpg/1024px-Hollywood_boulevard_from_kodak_theatre.jpg")-250px -326px no-repeat;
+    border-radius: 155px;
+    width: 180px;
+    height: 180px;
+}
+
+    .food2:hover {
+        cursor: pointer;
+        border-radius: 155px;
+        width: 196px;
+        height: 196px;
+    }
+
+.food3 {
+    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dolby_Theatre_v2.jpg/800px-Dolby_Theatre_v2.jpg")-337px -127px no-repeat;
+    border-radius: 155px;
+    width: 180px;
+    height: 180px;
+}
+
+    .food3:hover {
+        cursor: pointer;
+        border-radius: 155px;
+        width: 196px;
+        height: 196px;
+    }
+
+
+
+.Monuments {
+    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/SantaBarbaraCA_ButterflyBeach_20170911.jpg/1280px-SantaBarbaraCA_ButterflyBeach_20170911.jpg")-593px -361px no-repeat;
+    border-radius: 155px;
+    width: 180px;
+    height: 180px;
+}
+
+    .Monuments:hover {
+        cursor: pointer;
+        border-radius: 155px;
+        width: 196px;
+        height: 196px;
+    }
+
+.Monuments2 {
+    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Alamitos_Bay_photo_D_Ramey_Logan.jpg/1280px-Alamitos_Bay_photo_D_Ramey_Logan.jpg")-939px -188px no-repeat;
+    border-radius: 155px;
+    width: 180px;
+    height: 180px;
+}
+
+    .Monuments2:hover {
+        cursor: pointer;
+        border-radius: 155px;
+        width: 196px;
+        height: 196px;
+    }
+
+.Monuments3 {
+    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Tourmaline_Surfing_Park%2C_California.JPG/800px-Tourmaline_Surfing_Park%2C_California.JPG")-401px -372px no-repeat;
+    border-radius: 155px;
+    width: 180px;
+    height: 180px;
+}
+
+    .Monuments3:hover {
+        cursor: pointer;
+        border-radius: 155px;
+        width: 196px;
+        height: 196px;
+    }
+p {
+    font-family: bellota;
+    text-align: center;
+}
+
+h1 {
+    font-family: comfortaa;
+    font-size: 69px;
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    font-family: comfortaa;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+#miami {
+    background: url("https://image.shutterstock.com/image-photo/sunrise-view-colosseum-rome-italy-600w-789412159.jpg");
+    height: 364px;
+    margin: 10px --85px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+   
